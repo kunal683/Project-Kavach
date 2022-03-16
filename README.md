@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Code Innovation Series - MAIT (Team PAKSHI)</h3>
+  <h3 align="center">KAVACH</h3>
   <p align="center">
   </p>
 </p>
